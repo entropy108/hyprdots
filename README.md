@@ -35,12 +35,12 @@
 </div>
 
 ```
- ╔═══════════════════════════════════════════════════════════════╗
- ║  WARNING: Entering this repo may cause uncontrollable urges   ║
- ║  to rice your desktop for 6 hours instead of doing work.      ║
- ║  Side effects include: perfectionism, terminal addiction,      ║
- ║  and saying "btw I use Arch" in casual conversation.          ║
- ╚═══════════════════════════════════════════════════════════════╝
+                 ╔═══════════════════════════════════════════════════════════════╗
+                 ║  WARNING: Entering this repo may cause uncontrollable urges   ║
+                 ║  to rice your desktop for 6 hours instead of doing work.      ║
+                 ║  Side effects include: perfectionism, terminal addiction,     ║
+                 ║  and saying "btw I use Arch" in casual conversation.          ║
+                 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ---
