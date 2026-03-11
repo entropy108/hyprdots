@@ -75,13 +75,14 @@ cp -r dotfiles/.config/hypr ~/.config/hypr
 cp -r dotfiles/.config/kitty ~/.config/kitty
 cp -r dotfiles/.config/cava ~/.config/cava
 # ... and so on
+# Also to change wallapaper through SUPER+W, you need to put the "extras" folder in ~/.config
 ```
 
 ### 📦 Dependencies
 
 ```bash
 # Core chaos
-sudo pacman -S hyprland waybar kitty wofi swaync
+sudo pacman -S hyprland waybar kitty rofi swaync yazi nautilus fastfetch
 
 # Audio visualizer greatness  
 sudo pacman -S cava
