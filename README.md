@@ -55,7 +55,7 @@
 | 🚀 **Shell** | zsh *(THE BEST SHELL)* |
 | 📊 **Status Bar** | Waybar — because plain taskbars are for cowards |
 | 🚀 **Launcher** | Rofi — summon apps like spells |
-| 🔔 **Notifications** | Dunst — fancy little toasts |
+| 🔔 **Notifications** | swaync — fancy little toasts |
 | 💻 **File Manager** | Yazi — Pure Satisfaction |
 
 
