@@ -97,12 +97,14 @@ sudo pacman -S playerctl          # media control
 
 ## ⌨️ KEYBINDS 
 
-*because future-me always forgets*
+*because future-me always forge ts*
 
 | Keys | Action |
 |------|--------|
 | `SUPER + Return` | Open terminal (Kitty) |
-| `SUPER + SPACE` | Open launcher (Wofi) |
+| `SUPER + SPACE` | Open launcher (Rofi) |
+| `SUPER + I` | Open File Manager-1 (Yazi) |
+| `SUPER + E` | Open File Manager-2 (Nautilus) |
 | `SUPER + Q` | Kill focused window |
 | `SUPER + F` | Fullscreen |
 | `SUPER + T` | Toggle floating |
