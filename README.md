@@ -57,6 +57,7 @@
 | 🚀 **Launcher** | Rofi — summon apps like spells |
 | 🔔 **Notifications** | swaync — fancy little toasts |
 | 💻 **File Manager** | Yazi — Pure Satisfaction |
+| 🔧 **Text Editor** | Nvim — I use a custom lazynvim config for this |
 
 
 ---
