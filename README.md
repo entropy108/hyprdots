@@ -113,25 +113,6 @@ sudo pacman -S playerctl          # media control
 
 ---
 
-## 🌈 COLORSCHEME
-
-> *"A colorscheme isn't just colors, it's a lifestyle."*
-
-Currently rocking **Catppuccin Mocha** 🐱
-
-```
- Background  #1E1E2E  ████  cozy dark cave
- Surface     #313244  ████  slightly less dark cave
- Primary     #CBA6F7  ████  lavender dreams
- Secondary   #89B4FA  ████  soft blue sky
- Green       #A6E3A1  ████  minty fresh
- Red         #F38BA8  ████  pastel panic
- Yellow      #F9E2AF  ████  warm butter
- Peach       #FAB387  ████  sunset feels
-```
-
----
-
 <div align="center">
 
 ### 🌟 ACKNOWLEDGEMENTS
