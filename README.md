@@ -119,7 +119,9 @@ sudo pacman -S playerctl          # media control
 
 *standing on the shoulders of ricing giants*
 
-Huge thanks to the legends at **r/unixporn**, the **Hyprland Discord**, and every person who ever posted their dotfiles publicly and let strangers like me steal from them.
+Huge thanks to the legends at **r/unixporn**, the **Hyprland Discord**, and every person who ever posted their dotfiles publicly and let strangers like me steal from them. This rice uses configs from many repos, so it's not 100% pure my creation
+
+
 
 <br>
 
