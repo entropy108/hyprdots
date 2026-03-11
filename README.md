@@ -76,7 +76,7 @@ cp -r dotfiles/.config/cava ~/.config/cava
 # ... and so on
 ```
 
-### 📦 Dependencies (the shopping list)
+### 📦 Dependencies
 
 ```bash
 # Core chaos
